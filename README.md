@@ -13,4 +13,5 @@ This program manages the income of the food chain as well as the employees' and 
   - [`Staff`](Staff.java) Properties/methods of a staff.
   - [`Sever`](Sever.java) Properties/methods of a server which extends [`Staff`](Staff.java).
   - [`WorkingOwner`](WorkingOwner.java) Properties/methods of a working owner which extends [`Owner`](Owner.java).
-  - [`TaxCollector`](TaxCollector.java) Properties/methods of a tax collector
+  - [`TaxCollector`](TaxCollector.java) Properties/methods of a tax collector.
+  - [`Test`](Test.java) Used to check if all classes were implemented properly.
